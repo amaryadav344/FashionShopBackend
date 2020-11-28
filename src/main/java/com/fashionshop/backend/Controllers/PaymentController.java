@@ -36,7 +36,7 @@ public class PaymentController {
          * Generate checksum by parameters we have
          * Find your Merchant Key in your Paytm Dashboard at https://dashboard.paytm.com/next/apikeys
          */
-        try {//Vj%MFaqm!MPfd45_
+        try {
             String paytmChecksum = PaytmChecksum.generateSignature(paytmParams, merchantKey);
             System.out.println("generateSignature Returns: " + paytmChecksum);
             ChecksumResponse checksumResponse = new ChecksumResponse(paytmChecksum);
