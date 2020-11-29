@@ -1,8 +1,7 @@
 # FashionShopBackend
 Fashion shop application backend for paytm payment gateway integration
 
-While creating the backend we have to be very cautious about security. 
-I chose Spring to integrate our backend. You can find the backend code here. Below are the endpoints that are defined in the backend.
+While creating the backend we have to be very cautious about security. You can find the backend code here. Below are the endpoints that are defined in the backend.
 
 End Point |Description
 :-------------------------:|:-------------------------:
