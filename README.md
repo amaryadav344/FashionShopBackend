@@ -1,4 +1,4 @@
-# FashionShopBackend
+# Fashion Shop Backend
 Fashion shop application backend for paytm payment gateway integration
 
 While creating the backend we have to be very cautious about security. You can find the backend code here. Below are the endpoints that are defined in the backend.
